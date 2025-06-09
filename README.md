@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rajat</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajatsaini04&label=Profile%20views&color=0e75b6&style=flat" alt="rajatsaini04" /> </p>
 
-- 🔭 I’m currently working on **Blinkit Clone**
+- 🔭 I’m currently working on **MERN Stack Project**
 
-- 🌱 I’m currently learning **HTML5, CSS3, JS, ReactJs, NodeJs**
+- 🌱 I’m currently learning **Full Stack Devlopment**
 
 - 💬 Ask me about **Javascript**
 
