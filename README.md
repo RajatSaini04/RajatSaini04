@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rajat</h1>
-<h3 align="center">A passionate Full stack developer</h3>
+<h3 align="center">A Passionate Full stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajatsaini04&label=Profile%20views&color=0e75b6&style=flat" alt="rajatsaini04" /> </p>
 
 - 🔭 I’m currently working on **MERN Stack Project**
 
-- 🌱 I’m currently learning **Full Stack Devlopment**
+- 🌱 I’m currently learning **Full Stack Development**
 
-- 💬 Ask me about **Javascript**
+- 💬 Ask me about **Javascript, REACT, NODEJS**
 
 - 📫 How to reach me **rajatsaini0411@gmail.com**
 
