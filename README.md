@@ -14,7 +14,7 @@
 ### 👨‍💻 About Me
 - 🔭 Currently building **MERN Stack Projects**  
 - 🌱 Learning **Advanced Full Stack Development**  
-- 💬 Ask me about **JavaScript, React, Node.js, MongoDB**  
+- 💬 Ask me about **JavaScript, React, Node.js, MongoDB Express.js, Redux**  
 - 📫 Reach me at **rajatsaini0411@gmail.com**
 
 ---
